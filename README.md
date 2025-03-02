@@ -12,5 +12,5 @@
 🔹 [**Bash/Linux Administrator menu**](#) - A Bash script providing a user-friendly menu for Linux system administration tasks such as user management, process monitoring, and system resource analysis. 
 
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/lauren%C8%9Biu-busuioc-018348228/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren%C8%9Biu-busuioc-018348228/)  
 📩 Email: llaurentiu035@gmail.com
