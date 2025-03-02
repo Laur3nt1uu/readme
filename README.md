@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Laurentiu Busuioc!  
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Animated Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnbWJ1Mm5pZnBmdWYwYm8zaHJ3d3diZm9xMzZyZzk5MnA1cWh1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAzD9f05U6hzL9f24p/giphy.gif)
 
 💻 **CS student @ ASE Bucharest** | 💾 Passionate about **databases & backend development** | 🎨 Graphic Designer | 🎮 Gamer | 🚀 Always learning!  
 
