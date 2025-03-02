@@ -23,8 +23,7 @@
 ## 🎯 Fun Fact  
 💡 Did you know? I love playing CS2 & Valorant, and sometimes I organize tournaments! 🎮  
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiubusuioc&layout=compact&theme=dark&langs_count=5&hide=JAVA,C#,C++,SQL)  
+ 
 
 ## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentiubusuioc/)  
@@ -32,5 +31,5 @@
 
 ## ☕ Support Me  
 If you like my work, you can support me:  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/laurentiubusuioc)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]  
 
