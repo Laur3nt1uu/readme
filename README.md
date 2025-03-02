@@ -9,6 +9,7 @@
 
 ## 📌 Featured Projects
 🔹 [**DataBase Agriculture System**](#) - A relational database system designed to manage agricultural land, crops, and equipment. Includes structured data management with SQL and advanced querying features.
+
 🔹 [**Bash/Linux Administrator menu**](#) - A Bash script providing a user-friendly menu for Linux system administration tasks such as user management, process monitoring, and system resource analysis. 
 
 ## 📫 Connect with me
