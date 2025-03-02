@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Laurentiu Busuioc!  
-![GIF](https://media.giphy.com/media/your-custom-animation.gif)  
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 💻 **CS student @ ASE Bucharest** | 💾 Passionate about **databases & backend development** | 🎨 Graphic Designer | 🎮 Gamer | 🚀 Always learning!  
 
@@ -21,17 +21,9 @@
 🔹 **Creating graphic designs and animations**  
 
 ## 📌 Featured Projects  
-🔹 [**DataBase Agriculture System**](#)  
-![Database GIF](https://media.giphy.com/media/database-animation.gif)  
-A relational database system designed to manage agricultural land, crops, and equipment.  
-
-🔹 [**Bash/Linux Administrator menu**](#)  
-![Bash GIF](https://media.giphy.com/media/bash-animation.gif)  
-A Bash script providing a user-friendly menu for Linux system administration tasks.  
-
-🔹 [**Graphic Design Portfolio**](#)  
-![Design GIF](https://media.giphy.com/media/design-animation.gif)  
-A collection of creative projects made with Adobe Illustrator, Photoshop, and Canva.  
+🔹 [**DataBase Agriculture System**](#) - A relational database system designed to manage agricultural land, crops, and equipment. Includes structured data management with SQL and advanced querying features.  
+🔹 [**Bash/Linux Administrator menu**](#) - A Bash script providing a user-friendly menu for Linux system administration tasks such as user management, process monitoring, and system resource analysis.  
+🔹 [**Graphic Design Portfolio**](#) - A collection of creative projects made with Adobe Illustrator, Photoshop, and Canva, including logos, posters, and animations.  
 
 ## 🎨 Graphic Design & Animations  
 💡 Passionate about creating visually appealing designs and animations. Skilled in:  
@@ -40,15 +32,20 @@ A collection of creative projects made with Adobe Illustrator, Photoshop, and Ca
 - **Canva**: Designing social media posts, presentations, and marketing materials.  
 - **Animations**: Basic motion graphics and animated visuals.  
 
-Check out my [**Animation Portfolio**](#) for more!  
+Check out my [**Design Portfolio**](#) for more!  
+
+## � Hobbies & Interests  
+- 🎨 Graphic design & animations  
+- 🎮 Gaming (CS2, Valorant, organizing tournaments)  
+- 💻 Exploring new technologies  
+- 📚 Reading about databases and backend development  
 
 ## 🎯 Fun Fact  
 💡 Did you know? I love playing CS2 & Valorant, and sometimes I organize tournaments! 🎮  
-![Gaming GIF](https://media.giphy.com/media/gaming-animation.gif)  
 
 ## 📊 GitHub Stats  
-![Laurentiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurentiubusuioc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&animate=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiubusuioc&layout=compact&theme=dark&animate=true)  
+![Laurentiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurentiubusuioc&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiubusuioc&layout=compact&theme=dark)  
 
 ## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentiubusuioc/)  
