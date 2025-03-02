@@ -53,3 +53,6 @@ I'm always open to new projects, especially those that combine my passion for pr
 ## ☕ Support Me  
 If you like my work, you can support me:  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)] 
+
+## P.S.📜 Oracle Certification:
+I have completed the Database Design and Programming in SQL course offered by Oracle, which further strengthened my skills in database design and management. I attached the file in this repo.
