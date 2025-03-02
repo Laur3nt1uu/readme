@@ -30,9 +30,7 @@
 - **Adobe Illustrator**: Creating vector graphics, logos, and illustrations.  
 - **Adobe Photoshop**: Photo editing, digital art, and graphic design.  
 - **Canva**: Designing social media posts, presentations, and marketing materials.  
-- **Animations**: Basic motion graphics and animated visuals.  
-
-Check out my [**Design Portfolio**](#) for more!  
+- **Animations**: Basic motion graphics and animated visuals.    
 
 ## � Hobbies & Interests  
 - 🎨 Graphic design & animations  
@@ -43,18 +41,15 @@ Check out my [**Design Portfolio**](#) for more!
 ## 🎯 Fun Fact  
 💡 Did you know? I love playing CS2 & Valorant, and sometimes I organize tournaments! 🎮  
 
-## 📊 GitHub Stats  
-![Laurentiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurentiubusuioc&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentiubusuioc&layout=compact&theme=dark)  
+
 
 ## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentiubusuioc/)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/laurentiubusuioc)  
-📩 Email: your.email@example.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren%C8%9Biu-busuioc-018348228/)  
+📩 Email: llaurentiu035@gmail.com
 
 ## 🤝 Let's Collaborate!  
 I'm always open to new projects, especially those that combine my passion for programming and design. If you have an idea or need help with a creative project, feel free to reach out!  
 
 ## ☕ Support Me  
 If you like my work, you can support me:  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/laurentiubusuioc)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)] 
